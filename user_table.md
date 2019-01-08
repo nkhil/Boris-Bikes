@@ -1,4 +1,4 @@
-## Functional Representation Table##
+## Functional Representation Table
 
 | Objects   | Message |
 |---        |---         |
