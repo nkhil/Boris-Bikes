@@ -1,4 +1,4 @@
-##Functional Representation Table##
+## Functional Representation Table##
 
 | Objects   | Message |
 |---        |---         |
@@ -9,7 +9,7 @@
 |Person     |Use good bike|
 |Bike       |Is working|
 
-##Domain Model
+## Domain Model
 
 
 Person --> is availble? --> Docking Station -- > is working? --> Bike --> yes/no --> Docking Station --> if yes --> release --> Bike
