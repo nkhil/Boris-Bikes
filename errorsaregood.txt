@@ -1,0 +1,14 @@
+Type of error
+- NameError (uninitialized constant DockingStation)
+
+Filepath where the error happened
+/Users/nikhil/.rvm/rubies/ruby-2.5.1/bin/irb:11:in `<main>'
+
+Line number of the error
+1
+
+Reason for errr
+this error occurs when the code refers to a class or module that it can't find, often because the code doesn't include require, which instructs the Ruby file to load the class.
+
+Suggest one way of solving the error.
+Define the missing class.
